@@ -1,4 +1,4 @@
-package com.Aula_02;
+package com.Aula_03;
 
 public class Main {
 
@@ -7,14 +7,12 @@ public class Main {
         c1.cor = "Azul";
         c1.ponta = 0.5f;
         c1.destampar();
-        c1.status();
         c1.rabiscar();
 
         Caneta c2 = new Caneta();
         c2.ponta = 0.7f;
         c2.cor = "preto";
         c2.tampar();
-        c2.status();
         c2.rabiscar();
     }
 }
