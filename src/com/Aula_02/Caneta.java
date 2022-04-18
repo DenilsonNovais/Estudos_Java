@@ -8,8 +8,11 @@ public class Caneta {
     boolean tampada;
 
     void status() {
+        System.out.print("|Modelo: " + this.modelo);
         System.out.print("Uma caneta " + this.cor);
-        System.out.print(" Está tampada? " + this.tampada);
+        System.out.print("ponta: " + this.ponta);
+        System.out.print("Carga: " + this.carga);
+        System.out.print("Está tampada? " + this.tampada);
     }
 
     void rabiscar() {
