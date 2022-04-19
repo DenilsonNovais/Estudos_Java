@@ -8,11 +8,11 @@ public class Caneta {
     protected boolean tampada;
 
     public void status() {
-        System.out.print("|Modelo: " + this.modelo);
-        System.out.print("Uma caneta " + this.cor);
-        System.out.print("ponta: " + this.ponta);
-        System.out.print("Carga: " + this.carga);
-        System.out.print("Está tampada? " + this.tampada);
+        System.out.println("Modelo: " + this.modelo);
+        System.out.println("Uma caneta " + this.cor);
+        System.out.println("ponta: " + this.ponta);
+        System.out.println("Carga: " + this.carga);
+        System.out.println("Está tampada? " + this.tampada);
     }
 
     public void rabiscar() {

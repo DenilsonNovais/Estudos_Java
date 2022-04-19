@@ -8,7 +8,7 @@ public class Main {
         c1.cor = "Azul";
         //c1.ponta = 0.5f; // Não pode ser add por ser privado
         c1.carga = 80;
-        c1.tampada = true;
+        c1.tampada = false;
         c1.rabiscar();
         c1.status();
     }
