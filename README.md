@@ -1,2 +1,2 @@
-# Java_POO
- Curso de Java Orientada a Objetos pelo site do Curso em Video
+# Java
+Repositótio dedicado ao estudo da linguagem Java e seus frameworkes!
